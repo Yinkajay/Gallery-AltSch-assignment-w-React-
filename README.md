@@ -1,3 +1,3 @@
 ## Photo Gallery
 
-Created a photo gallery of cars with React
+Created a photo gallery of cars with React!
