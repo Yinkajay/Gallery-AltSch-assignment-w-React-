@@ -1,38 +1,40 @@
-.App {
+@import url('https://fonts.googleapis.com/css2?family=Chivo:wght@400;700&family=Nabla&family=Pacifico&display=swap');
+
+
+html {
+  height: 100%;
+}
+
+
+body {
+  box-sizing: border-box;
+  /* background-image: linear-gradient(to bottom right, rgb(127, 149, 179), rgb(139, 132, 132)); */
+  background-image: url(./car-garage.jpg);
+  background-size: cover;
+  background-position-y: 50%;
+  background-attachment: fixed;
+  padding-top: 7rem;
+}
+
+.heading {
+  margin:1rem ;
+  background-color: rgba(0, 0, 0, 0.7);
+  position: fixed;
+  height: 5rem;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 10;
+}
+
+h1 {
+  font-family: Nabla;
+  font-size: 3rem;
+  margin: 0;
   text-align: center;
+  color: black;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+h3 {
+  font-family: Pacifico, sans-serif;
 }
