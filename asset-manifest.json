@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Gallery-AltSch-assignment-w-React-/static/css/main.1d4d200d.css",
+    "main.js": "/Gallery-AltSch-assignment-w-React-/static/js/main.90683bdb.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Gallery-AltSch-assignment-w-React-/static/js/787.28cb0dcd.chunk.js",
+    "static/media/car-garage.jpg": "/Gallery-AltSch-assignment-w-React-/static/media/car-garage.28e80d92454549ff1538.jpg",
+    "static/media/logo.svg": "/Gallery-AltSch-assignment-w-React-/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Gallery-AltSch-assignment-w-React-/index.html",
+    "main.1d4d200d.css.map": "/Gallery-AltSch-assignment-w-React-/static/css/main.1d4d200d.css.map",
+    "main.90683bdb.js.map": "/Gallery-AltSch-assignment-w-React-/static/js/main.90683bdb.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Gallery-AltSch-assignment-w-React-/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d4d200d.css",
+    "static/js/main.90683bdb.js"
+  ]
+}
